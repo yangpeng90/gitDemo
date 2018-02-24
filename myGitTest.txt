@@ -2,3 +2,4 @@ I love java
 I love Gie
 Hello world
 change global config
+nihao
